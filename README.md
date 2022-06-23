@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iamadib555
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning C Prog.language 
-- 💞️ I’m looking to collaborate on Basic coding 
+- 👀 I’m interested
+- 🌱 I’m current 
+- 💞️ I’m looking 
 - 📫 How to reach me adibshaikh.aa@gmail.com
 
 <!---
