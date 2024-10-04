@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @iamadib555
-- 👀 I’m interested
-- 🌱 I’m current 
-- 💞️ I’m looking 
+- 👀 I’m interested CyberSec & Networking
 - 📫 How to reach me adibshaikh.aa@gmail.com
 
 <!---
